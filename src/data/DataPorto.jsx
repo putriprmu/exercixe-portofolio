@@ -37,12 +37,12 @@ export const portfolioList = [
     id: "5",
     title: "Awards & Portofolio #5",
     image: porto5,
-    skill: "Distric Coffee Testing Challenge",
+    awards: "Distric Coffee Testing Challenge",
   },
   {
     id: "6",
     title: "Awards & Portofolio #6",
     image: porto6,
-    skill: "Leetcode Challenge for Purwadhika Boothcamp",
+    awards: "Leetcode Challenge for Purwadhika Boothcamp",
   },
 ];
